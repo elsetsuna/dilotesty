@@ -1,5 +1,4 @@
-client
-dev tun
+
 proto udp
 remote 167.160.165.27 1194 #- ip public server openvpn dan port yg digunakan.
 resolv-retry infinite
